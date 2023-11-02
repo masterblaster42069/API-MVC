@@ -38,6 +38,7 @@ img {
 
 /* CSS styles for the Steam rating and Metacritic score */
 #sRating,
+#rating,
 #mRating {
     color: hsl(120, 2%, 88%);
     font-style: italic;
